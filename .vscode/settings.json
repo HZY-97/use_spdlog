@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "MSYS2 Clang64": {
+            "path": "cmd.exe",
+            "args": [
+                "/c",
+                "D:\\Mysys2\\msys2_shell.cmd -defterm -here -no-start -clang64"
+            ]
+        }
+    }
+}
