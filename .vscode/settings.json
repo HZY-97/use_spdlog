@@ -4,7 +4,7 @@
             "path": "cmd.exe",
             "args": [
                 "/c",
-                "D:\\Mysys2\\msys2_shell.cmd -defterm -here -no-start -clang64"
+                "D:\\Software\\mysys2\\msys2_shell.cmd -defterm -here -no-start -clang64"
             ]
         }
     }
